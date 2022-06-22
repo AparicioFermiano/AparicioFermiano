@@ -1,17 +1,37 @@
-### Seja Bem Vindo ao meu GitHub 😄
+<div align="center">
+  <!-- Title -->
+  <h3>Aparicio Fermiano :man_technologist:</h3>
+  <p>Seja Bem-vindo ao meu GitHub!</p>
 
+  <!-- images -->
+  <p>
+    <a href="https://www.linkedin.com/in/apariciofermiano/">
+      <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Aparicio Fermiano - LinkedIn Profile" height="30" width="30">
+    </a>
+    <a href="mailto:aparicio.empresarial@gmail.com">
+      <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Aparicio Fermiano - Gmail" height="30" width="30">
+    </a>
+  </p>
+</div>
+<!--<div>
+  <h4 align="center">Visitas ao meu perfil :eyes:</h4>
+  <p align="center"><img src="https://profile-counter.glitch.me/apariciofermiano/count.svg" alt="Visitor's Count" /></p>
+</div>-->
 
-<!--
-**AparicioFermiano/AparicioFermiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/AparicioFermiano" alt="Stats - Aparicio Fermiano">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AparicioFermiano&langs_count=10&theme=tokyonight&layout=compact"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AparicioFermiano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
+ 
+<div class="d-flex">
+<h4 align="center">Top langs :tongue:</h4>
 
-Here are some ideas to get you started:
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+

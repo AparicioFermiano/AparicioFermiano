@@ -13,6 +13,7 @@
     </a>
   </p>
 </div>
+
 <!--<div>
   <h4 align="center">Visitas ao meu perfil :eyes:</h4>
   <p align="center"><img src="https://profile-counter.glitch.me/apariciofermiano/count.svg" alt="Visitor's Count" /></p>
@@ -22,16 +23,6 @@
   <a href="https://github.com/AparicioFermiano" alt="Stats - Aparicio Fermiano">
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AparicioFermiano&langs_count=10&theme=tokyonight&layout=compact"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AparicioFermiano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
- 
-<div class="d-flex">
-<h4 align="center">Top langs :tongue:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
-
-<h4 align="center">Profile stats :musical_keyboard:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
-
+    
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
-
+</div>

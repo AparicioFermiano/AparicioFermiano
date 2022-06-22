@@ -24,5 +24,6 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AparicioFermiano&langs_count=10&theme=tokyonight&layout=compact"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AparicioFermiano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
-</div>
+<h4 align="center">:musical_keyboard:</h4>
+
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Tokyonight" height="300" width="500"></p>

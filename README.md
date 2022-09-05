@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Title -->
   <h3>Aparicio Fermiano :man_technologist:</h3>
-  <p>Seja Bem-vindo ao meu GitHub!</p>
+  <p>Welcome to my GitHub!</p>
 
   <!-- images -->
   <p>
@@ -27,7 +27,7 @@
   
 <!-- Programas -->
 
-<h3 align="center">Desenvolvedor :heavy_check_mark:</h3>
+<h3 align="center">Developer :heavy_check_mark:</h3>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

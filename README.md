@@ -1,53 +1,38 @@
 <div align="center">
-  <!-- Title -->
-  <h3>Aparicio Fermiano :man_technologist:</h3>
-  <p>Welcome to my GitHub!</p>
 
-  <!-- images -->
-  <p>
-    <a href="https://www.linkedin.com/in/apariciofermiano/">
-      <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Aparicio Fermiano - LinkedIn Profile" height="30" width="30">
-    </a>
-    <a href="mailto:aparicio.empresarial@gmail.com">
-      <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Aparicio Fermiano - Gmail" height="30" width="30">
-    </a>
-  </p>
-</div>
+# Aparicio Fermiano 👋
 
-<!--<div>
-  <h4 align="center">Visitas ao meu perfil :eyes:</h4>
-  <p align="center"><img src="https://profile-counter.glitch.me/apariciofermiano/count.svg" alt="Visitor's Count" /></p>
-</div>-->
+### Desenvolvedor Full Stack
 
-<div align="center">
-  <a href="https://github.com/AparicioFermiano" alt="Stats - Aparicio Fermiano">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AparicioFermiano&langs_count=10&theme=tokyonight&layout=compact"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AparicioFermiano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
-  
-<!-- Programas -->
+<p>
+  <a href="https://www.linkedin.com/in/apariciofermiano/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:aparicio.empresarial@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
-<h3 align="center">Developer :heavy_check_mark:</h3>
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Postgresql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Google Cloud" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg">
- 
-<h3 align="center">Designer :heavy_check_mark:</h3>
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Illustrator" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg">
-  <img align="center" alt="Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
-  <img align="center" alt="PremierePro" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg">
+<br/>
+
+### 🛠️ Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue 3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Vibe_Code-8A2BE2?style=for-the-badge" alt="Vibe Code" />
+  <img src="https://img.shields.io/badge/IA_RAG-0EA5E9?style=for-the-badge" alt="IA RAG" />
+</p>
 
 </div>
-<h4 align="center">____________________________________________________________________</h4>
-    
-<!--<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Tokyonight" height="300" width="500"></p>-->

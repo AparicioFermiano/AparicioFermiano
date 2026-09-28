@@ -31,7 +31,6 @@
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Vibe_Code-8A2BE2?style=for-the-badge" alt="Vibe Code" />
   <img src="https://img.shields.io/badge/IA_RAG-0EA5E9?style=for-the-badge" alt="IA RAG" />
 </p>
 
